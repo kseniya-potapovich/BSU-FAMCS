@@ -1,0 +1,1 @@
+A,C,D,E,F,G,H;Am-Hm;A#5-H#5;A+5-H+5;Am+5-Hm+5;Am-5-Hm-5;A-5-H-5;Ab5-Hb5;Aaug-Haug;AaugHaug;Am-5-Hm+5
